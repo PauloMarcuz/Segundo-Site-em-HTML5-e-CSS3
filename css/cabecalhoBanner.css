@@ -1,0 +1,36 @@
+.cabecalhoBanner{
+    height: 70vh;
+    background-image: url(../img/banner01.jpg); 
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cabecalhoChamadaBanner{
+    width: 40%;
+    margin: 0 10%;
+}
+
+.cabecalhoChamadaBanner h1{
+    font-weight: bold;
+    color: #fff;
+    padding-top: 60px;
+}
+
+.cabecalhoChamadaBanner p{
+    font-weight: 300;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.cabecalhoChamadaBanner input[type="button"]{
+    background-color: #293241;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 25px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 2px solid black;
+    cursor: pointer;
+}
